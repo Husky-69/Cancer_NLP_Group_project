@@ -24,4 +24,6 @@ The system comprises a core NLP model that retrieves answers from a trusted medi
 
   * Flask / FastAPI (for building the REST API)
 
+## Business Understanding
 
+Healthcare providers are under growing pressure to reduce costs, enhance patient engagement, and deliver accurate information without overburdening staff. As patients increasingly turn to the internet—often encountering unreliable content—automated Q&A systems built on trusted sources like MedQuAD offer a scalable, reliable alternative. This project aims to develop a retrieval-based Natural Language Processing (NLP) model that responds to cancer-related user queries by matching them to the most relevant questions in the dataset, improving access to trustworthy medical information while reducing manual support demands. This NLP model is designed to serve as a robust backend for integration into various bot platforms, optimizing information dissemination and combating misinformation.
