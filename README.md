@@ -188,5 +188,5 @@ To run this project on your local machine, follow these steps:
 
 ## 13. Contact / Contributors
 
-* **[Your Name/Group Name]** - [Your GitHub Profile Link or Email]
-* [List other contributors if applicable]
+* **[Group_8]** - [Contributers]
+* JoyAran, Husky_69, SteveJoel, Simonrank, KemboiBett, Raphael
